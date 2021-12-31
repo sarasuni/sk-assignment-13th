@@ -20,6 +20,7 @@ npm install
 
 ## Usage:
 Demo Video Link:
+
 1.Create schema and seeds:
 https://watch.screencastify.com/v/ZEaPE7d8vheMHQnDF0PA
 

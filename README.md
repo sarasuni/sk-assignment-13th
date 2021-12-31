@@ -20,7 +20,16 @@ npm install
 
 ## Usage:
 Demo Video Link:
+1.Create schema and seeds:
+https://watch.screencastify.com/v/ZEaPE7d8vheMHQnDF0PA
 
+2.Starting the application’s server and GET routes for all/single categories, all/single products, and all/single tags being tested in Insomnia Core.
+https://watch.screencastify.com/v/HcA4XkUMbVj058T3hFeU
+
+3.Demonstrating POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
+  a. Categories - https://watch.screencastify.com/v/jeO7tDOkYLgUjbpvOyxb
+  b. Products - https://watch.screencastify.com/v/sOuuetOYo1bYWiP11x1u
+  c. Tags - https://watch.screencastify.com/v/N59nc1j0L4XLPtSUXoSy
 
 ## Username:
 
